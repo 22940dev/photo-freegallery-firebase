@@ -3,12 +3,12 @@ import 'firebase/storage';
 import 'firebase/firestore';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAxFTu1rfZt4F9KlJWoshL5qVEtkO5fNE0",
-  authDomain: "ninja-firegram-2c273.firebaseapp.com",
-  projectId: "ninja-firegram-2c273",
-  storageBucket: "ninja-firegram-2c273.appspot.com",
-  messagingSenderId: "380896073000",
-  appId: "1:380896073000:web:23753630737f596fcaec1d"
+  apiKey: "AIzaSyDl_P7fFayTjDwOofjsSoekHDvUr0s0OdQ",
+  authDomain: "photo-freegallery.firebaseapp.com",
+  projectId: "photo-freegallery",
+  storageBucket: "photo-freegallery.appspot.com",
+  messagingSenderId: "606600198472",
+  appId: "1:606600198472:web:1671ca2dbef18ed7be1b7d"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
